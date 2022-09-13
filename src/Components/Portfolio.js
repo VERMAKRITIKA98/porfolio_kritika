@@ -1,10 +1,14 @@
 import React, { Component } from 'react';
+import DEFAULT_dATA from '../resumeData.json';
+
+let portfolioData = DEFAULT_dATA['portfolio'];
+
 
 class Portfolio extends Component {
   render() {
 
-    if(this.props.data){
-      var projects = this.props.data.projects.map(function(projects){
+    if(portfolioData){
+      var projects = portfolioData['projects'].map(function(projects){
         var projectImage = 'images/portfolio/'+projects.image;
         return <div key={projects.title} className="columns portfolio-item">
            <div className="item-wrap">

@@ -1,26 +1,30 @@
 import React, { Component } from 'react';
+import DEFAULT_dATA from '../resumeData.json';
+
+
+let tmpData = DEFAULT_dATA['main'];
 
 class About extends Component {
   render() {
 
-    if(this.props.data){
-      var name = this.props.data.name;
-      var profilepic= "images/"+this.props.data.image;
-      var bio = this.props.data.bio;
-      var street = this.props.data.address.street;
-      var city = this.props.data.address.city;
-      var state = this.props.data.address.state;
-      var zip = this.props.data.address.zip;
-      var phone= this.props.data.phone;
-      var email = this.props.data.email;
-      var resumeDownload = this.props.data.resumedownload;
+    if(tmpData){
+      var name = tmpData['name'];
+      var profilepic= tmpData['image'];;
+      var bio = tmpData['bio'];
+      var street = tmpData['address']['street'];
+      var city = tmpData['address']['city'];
+      var state = tmpData['address']['state'];
+      var zip = tmpData['address']['zip'];
+      var phone= tmpData['phone'];
+      var email = tmpData['email'];
+      var resumeDownload = tmpData['resumedownload'];;
     }
 
     return (
       <section id="about">
       <div className="row">
          <div className="three columns">
-            <img className="profile-pic"  src={profilepic} alt="Tim Baker Profile Pic" />
+            <img className="profile-pic"  src={profilepic} alt="Kritika Verma Profile Pic" />
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>

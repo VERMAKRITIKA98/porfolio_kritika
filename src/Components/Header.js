@@ -1,14 +1,17 @@
 import React, { Component } from 'react';
+import DEFAULT_dATA from '../resumeData.json';
+
+let tmpData = DEFAULT_dATA['main'];
 
 class Header extends Component {
   render() {
 
-    if(this.props.data){
-      var name = this.props.data.name;
+    if(tmpData){
+      var name = tmpData['name'];
       // var occupation= this.props.data.occupation;
-      var description= this.props.data.description;
+      var description= tmpData['description'];
       // var city= this.props.data.address.city;
-      var networks= this.props.data.social.map(function(network){
+      var networks= tmpData['social'].map(function(network){
         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
       })
     }
