@@ -73,17 +73,6 @@ class Resume extends Component {
 					</ul>
 				</div>
 			</div>
-
-      {/* <div className="row certification">
-
-        <div className="three columns header-col">
-        <h1><span>Certification</span></h1>
-        </div>
-
-        <div className="nine columns main-col"> */}
-          {/* {work} */}
-         {/* </div>
-      </div>  */}
       </div>
    </section>
     );
