@@ -8,7 +8,7 @@ class Header extends Component {
 
     if(tmpData){
       var name = tmpData['name'];
-      // var occupation= this.props.data.occupation;
+      var occupation= tmpData['occupation'];
       var description= tmpData['description'];
       // var city= this.props.data.address.city;
       var networks= tmpData['social'].map(function(network){
@@ -37,7 +37,9 @@ class Header extends Component {
 
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline">I'm {name}.</h1>
+            <h1 className="responsive-headline">{name}.</h1>
+            <h2 className="responsive-headline">I'm a {occupation}</h2>
+            
             <h3>
                {/* I'm a {city} based <span>{occupation}</span>.  */}
             {description}.</h3>

@@ -61,7 +61,7 @@ header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
    color: #fff;
    letter-spacing: -2px;
-   margin: 0 auto 18px auto;
+   margin: 0 auto 12px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
 header .banner-text h3 {
@@ -207,8 +207,8 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 140px;
+   height: 140px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
@@ -615,7 +615,7 @@ ul#nav li.current a { color: #F06000; }
 #call-to-action h2 {
    font: 28px/36px 'opensans-bold', sans-serif;
    color: #EBEEEE;
-   margin-bottom: 6px;
+   margin-bottom: 15px;
 }
 #call-to-action h2 a {
    color: inherit;

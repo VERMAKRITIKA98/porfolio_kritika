@@ -2,9 +2,9 @@
   "main": {
     "name": "Kritika Verma",
     "occupation": "Software Engineer",
-    "description": "B. Tech. Graduate | Strong analytical and quantitative skills | Ability to analyze patterns and trends in large data sets | Knowledge of Data Mining and Data Warehouse | Sound understanding of Database and SQL queries",
+    "description": "B. Tech. Graduate | Strong foundation in designing, implementing, integrating and launching projects | Sound knowledge of Database and Programming languages",
     "image": "https://github.com/VERMAKRITIKA98/porfolio_kritika/blob/gh-pages/images/profilepic.jpg?raw=true",
-    "bio": "Good logical and interpersonal skills. Having background in Computer Science. With an experience of 1 year in IT industry. Working experience in differents tools like SQL server, Threekit, Git. Having fundamental knowledge in Data Structure, Algorithms, OOPS, DBMS, Operating Systems.",
+    "bio": "Good logical and interpersonal skills. Having a background in Computer Science With an experience of 1+ years in the IT industry. Working experience in different technical languages and tools. Having fundamental knowledge in Data Structure, Algorithms, OOPS, DBMS, and Operating Systems.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "vermakritika98@gmail.com",
     "phone": "+91-7388744934",
@@ -14,8 +14,7 @@
       "state": "Haryana IN",
       "zip": "122006"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/file/d/1WTNJfXum-J2BkpjFQw7OSDhgMTNkM2OB/view?usp=sharing",    
+    "resumedownload": "https://drive.google.com/file/d/1O8aNsgIH3-nBHXWHijq94pmF4iXm7ona/view?usp=sharing",    
     "social": [
       {
         "name": "facebook",
@@ -49,9 +48,9 @@
     "education": [
       {
         "school": "Dr. A. P. J. Abdul Kalam Technical University, Uttar Pradesh",
-        "degree": "Bachelor of Technology",
+        "degree": "Bachelor of Technology (Computer Science)",
         "graduated": "July 2021",
-        "description": "1st position in Inter-College Badminton Single Competition. Participated in many events Like Conference, Seminar. "
+        "description": "1st position in Inter-College Badminton Competition. Participated in many events such as conferences, seminars. "
       },
       {
         "school": "Jawahar Navodaya Vidyalaya Kaushambi",
@@ -64,7 +63,7 @@
         "company": "Digitize Solution Pvt Ltd",
         "title": "Software Engineer",
         "years": "November 2021 - Present",
-        "description": "Cooperate with team to create clean interfaces. Work with seniors to manage large, complex design projects for corporate clients. Improved user data API by 45% by optimizing DB Queries."
+        "description": "Developed project concepts and maintained optimal workflow. Responsible for software maintenance across the codebase. Cooperated with team to create clean interfaces. Worked with seniors to manage large, complex design projects for corporate clients. Worked on various tools like Postman, SQL Server. Promoted from Intern to full time Software Engineer within 3 months."
       }
     ],
     "skills": [
@@ -89,16 +88,28 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Top 10 Products Sale Analysis",
+        "title": "Top 10 Products",
         "category": "Sales of top 10 products over different country",
         "image": "Top_10_Products_Sale.jpg",
         "url": "https://public.tableau.com/app/profile/kritika.verma7187/viz/Top10ProductSale/Dashboard1?publish=yes"
+      },
+      {
+        "title": "Finance Overview",
+        "category": "Financial overview of 3 years",
+        "image": "Finanace_Overview.jpg",
+        "url": "https://public.tableau.com/app/profile/kritika.verma7187/viz/FinanceOverview_16622451588010/Dashboard2?publish=yes"
       },
       {
         "title": "Covid Analysis",
         "category": "Covid Extracted data for Visualization",
         "image": "Covid_Analysis.jpg",
         "url": "https://github.com/VERMAKRITIKA98/Covid_Analysis/blob/main/covidExtracted_data_for_visualization.sql"
+      },
+      {
+        "title": "My Portfolio",
+        "category": "A web representation of my resume",
+        "image": "portfolio-resume.png",
+        "url": "https://vermakritika98.github.io/porfolio_kritika/"
       }
     ]
   },

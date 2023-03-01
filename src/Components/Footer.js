@@ -3,6 +3,7 @@ import DEFAULT_dATA from '../resumeData.json';
 
 
 let footerData = DEFAULT_dATA['main'];
+// let currentTime = new Date()
 class Footer extends Component {
   render() {
 
@@ -20,11 +21,12 @@ class Footer extends Component {
            <ul className="social-links">
               {networks}
            </ul>
-
-           <ul className="copyright">
-              <li>&copy; Copyright 2021 Kritika Verma</li>
+           <hr style={{background: "#838C95",height: "0.1px",border: "none", }}
+/>
+           {/* <ul className="copyright">
+              <li>&copy; Copyright {currentTime.getFullYear()} Kritika Verma</li>
               <li>Design by <a title="Styleshout" href="#">Kritika Verma</a></li>
-           </ul>
+           </ul> */}
 
         </div>
         <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div>
