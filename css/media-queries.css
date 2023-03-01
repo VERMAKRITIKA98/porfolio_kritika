@@ -16,7 +16,7 @@
    header .banner-text h1 {
       font: 80px/1.1em 'opensans-bold', sans-serif;
       letter-spacing: -1px;
-      margin: 0 auto 12px auto;
+      margin: 0 auto 15px auto;
    }
 
 }
@@ -215,7 +215,8 @@
 
    /* About Section
    -------------------------------------------------------------------- */
-   #about .profile-pic { display: none; }
+   /* #about .profile-pic { display: none; } */
+   
    #about .download .button {
       width: 100%;
       text-align: center;

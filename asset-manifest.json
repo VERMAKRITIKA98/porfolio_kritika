@@ -1,6 +1,13 @@
 {
-  "main.css": "static/css/main.d41d8cd9.css",
-  "main.css.map": "static/css/main.d41d8cd9.css.map",
-  "main.js": "static/js/main.f3db0217.js",
-  "main.js.map": "static/js/main.f3db0217.js.map"
+  "main.css": "/porfolio_kritika/static/css/main.07318036.chunk.css",
+  "main.js": "/porfolio_kritika/static/js/main.929d1524.chunk.js",
+  "main.js.map": "/porfolio_kritika/static/js/main.929d1524.chunk.js.map",
+  "runtime~main.js": "/porfolio_kritika/static/js/runtime~main.b79e59be.js",
+  "runtime~main.js.map": "/porfolio_kritika/static/js/runtime~main.b79e59be.js.map",
+  "static/js/2.fb14bd91.chunk.js": "/porfolio_kritika/static/js/2.fb14bd91.chunk.js",
+  "static/js/2.fb14bd91.chunk.js.map": "/porfolio_kritika/static/js/2.fb14bd91.chunk.js.map",
+  "index.html": "/porfolio_kritika/index.html",
+  "precache-manifest.918bbba389bdc79e1327fea0b0982bdd.js": "/porfolio_kritika/precache-manifest.918bbba389bdc79e1327fea0b0982bdd.js",
+  "service-worker.js": "/porfolio_kritika/service-worker.js",
+  "static/css/main.07318036.chunk.css.map": "/porfolio_kritika/static/css/main.07318036.chunk.css.map"
 }
