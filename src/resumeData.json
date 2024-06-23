@@ -14,7 +14,7 @@
       "state": "Haryana IN",
       "zip": "122006"
     },
-    "resumedownload": "https://drive.google.com/file/d/1O8aNsgIH3-nBHXWHijq94pmF4iXm7ona/view?usp=sharing",    
+    "resumedownload": "https://drive.google.com/file/d/1RPYJK3o29Cs08OxQbF5NnXBLAkyvq-BU/view",    
     "social": [
       {
         "name": "facebook",
@@ -63,7 +63,7 @@
         "company": "Digitize Solution Pvt Ltd",
         "title": "Software Engineer",
         "years": "November 2021 - Present",
-        "description": "Developed project concepts and maintained optimal workflow. Responsible for software maintenance across the codebase. Cooperated with team to create clean interfaces. Worked with seniors to manage large, complex design projects for corporate clients. Worked on various tools like Postman, SQL Server. Promoted from Intern to full time Software Engineer within 3 months."
+        "description": "Cooperated with team to create clean interfaces. Worked on various tools like Postman, SQL Server. Promoted from Intern to full time Software Engineer within 3 months."
       }
     ],
     "skills": [
@@ -72,8 +72,12 @@
         "level": "60%"
       },
       {
-        "name": "C++",
-        "level": "55%"
+        "name":"NodeJS",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"80%"
       },
       {
         "name": "Git",
@@ -88,28 +92,28 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Top 10 Products",
-        "category": "Sales of top 10 products over different country",
-        "image": "Top_10_Products_Sale.jpg",
-        "url": "https://public.tableau.com/app/profile/kritika.verma7187/viz/Top10ProductSale/Dashboard1?publish=yes"
+        "title": "My Portfolio",
+        "category": "A web representation of my resume",
+        "image": "portfolio-resume.png",
+        "url": "https://vermakritika98.github.io/porfolio_kritika/"
       },
       {
-        "title": "Finance Overview",
-        "category": "Financial overview of 3 years",
-        "image": "Finanace_Overview.jpg",
-        "url": "https://public.tableau.com/app/profile/kritika.verma7187/viz/FinanceOverview_16622451588010/Dashboard2?publish=yes"
+        "title": "backend-NodeJS",
+        "category": "Making an application similar to youtube",
+        "image": "backendNodeJS.png",
+        "url": "https://github.com/VERMAKRITIKA98/BackendProject-NodeJS"
+      },
+      {
+        "title": "current-backyard",
+        "category": "Client-Site. Added Cutomization for the product",
+        "image": "cuurentBackyard.png",
+        "url": "https://www.currentbackyard.com/configurator"
       },
       {
         "title": "Covid Analysis",
         "category": "Covid Extracted data for Visualization",
         "image": "Covid_Analysis.jpg",
         "url": "https://github.com/VERMAKRITIKA98/Covid_Analysis/blob/main/covidExtracted_data_for_visualization.sql"
-      },
-      {
-        "title": "My Portfolio",
-        "category": "A web representation of my resume",
-        "image": "portfolio-resume.png",
-        "url": "https://vermakritika98.github.io/porfolio_kritika/"
       }
     ]
   },
