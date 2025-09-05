@@ -2,10 +2,9 @@
   "main": {
     "name": "Kritika Verma",
     "occupation": "Software Engineer",
-    "description": "💻 Skilled in JavaScript, TypeScript, React, Node.js, HTML/CSS, and Shopify theme development.
-🔧 Experience working across the full stack—from UI components to backend integrations. Having a background in computer science and 2+ years of experience in the IT industry.",
+    "description": "💻 Skilled in JavaScript, TypeScript, React, Node.js, HTML/CSS, and Shopify theme development. 🔧 Experience working across the full stack—from UI components to backend integrations. Having a background in computer science and 2+ years of experience in the IT industry.",
     "image": "https://github.com/VERMAKRITIKA98/porfolio_kritika/blob/gh-pages/images/profilepic.jpeg?raw=true",
-    "bio": "Dynamic and detail-oriented Software Engineer with over 2 years of experience in designing, developing, and maintaining robust software applications. Proficient in various programming languages and frameworks, with a strong background in full-stack development, software lifecycle management. Having fundamental knowledge in Data Structure, Algorithms, OOPS, DBMS, and Operating Systems.",
+    "bio": "Dynamic and detail-oriented Software Engineer with over 2 years of experience in designing, developing, and maintaining robust software applications. Proficient in various programming languages and frameworks, with a strong background in full-stack development and software lifecycle management. Strong fundamentals in Data Structures, Algorithms, OOPS, DBMS, and Operating Systems.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "vermakritika98@gmail.com",
     "phone": "+91-7388744934",
@@ -15,7 +14,7 @@
       "state": "Haryana IN",
       "zip": "122006"
     },
-    "resumedownload": "https://drive.google.com/file/d/17xtDS6T2W8qef6PWKLholVAhE4XVkYih/view?usp=sharing",    
+    "resumedownload": "https://drive.google.com/file/d/17xtDS6T2W8qef6PWKLholVAhE4XVkYih/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -51,11 +50,11 @@
         "school": "Dr. A. P. J. Abdul Kalam Technical University, Uttar Pradesh",
         "degree": "Bachelor of Technology (Computer Science)",
         "graduated": "July 2021",
-        "description": "1st position in Inter-College Badminton Competition. Participated in many events such as conferences, seminars. "
+        "description": "1st position in Inter-College Badminton Competition. Participated in many events such as conferences and seminars."
       },
       {
         "school": "Jawahar Navodaya Vidyalaya Kaushambi",
-        "degree": "Higher Seconday School",
+        "degree": "Higher Secondary School",
         "graduated": "May 2016"
       }
     ],
@@ -64,18 +63,18 @@
         "company": "Digitize Solution Pvt Ltd",
         "title": "Software Engineer",
         "years": "November 2021 - July 2024",
-        "description": "Cooperated with team to create clean interfaces. Worked on various tools like Postman, SQL Server. Promoted from Intern to full time Software Engineer within 3 months."
+        "description": "Collaborated with team members to create clean interfaces. Worked with tools such as Postman and SQL Server. Promoted from Intern to full-time Software Engineer within 3 months."
       },
       {
         "company": "Loop Solution Pvt Ltd",
         "title": "Implementation Engineer",
         "years": "August 2024 - Present",
-        "description": "Have worked internally with different team. Provided tech solutioning. Involved in development."
+        "description": "Worked internally with different teams. Provided technical solutioning and contributed to development."
       }
     ],
     "skills": [
       {
-        "name": "Javascript",
+        "name": "JavaScript",
         "level": "70%"
       },
       {
@@ -83,12 +82,12 @@
         "level": "60%"
       },
       {
-        "name":"NodeJS",
-        "level":"80%"
+        "name": "NodeJS",
+        "level": "80%"
       },
       {
-        "name":"ReactJS",
-        "level":"80%"
+        "name": "ReactJS",
+        "level": "80%"
       },
       {
         "name": "Git",
@@ -106,17 +105,16 @@
       },
       {
         "title": "backend-NodeJS",
-        "category": "Making an application similar to youtube",
+        "category": "Building an application similar to YouTube",
         "image": "backendNodeJS.png",
         "url": "https://github.com/VERMAKRITIKA98/BackendProject-NodeJS"
       },
       {
         "title": "current-backyard",
-        "category": "Client-Site. Added Cutomization for the product",
-        "image": "cuurentBackyard.png",
+        "category": "Client site project. Added customization for the product",
+        "image": "currentBackyard.png",
         "url": "https://www.currentbackyard.com/configurator"
-      },
-      
+      }
     ]
   },
   "testimonials": {
