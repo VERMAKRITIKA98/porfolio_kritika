@@ -15,7 +15,7 @@
       "state": "Haryana IN",
       "zip": "122006"
     },
-    "resumedownload": "",    
+    "resumedownload": "https://drive.google.com/file/d/17xtDS6T2W8qef6PWKLholVAhE4XVkYih/view?usp=sharing",    
     "social": [
       {
         "name": "facebook",
@@ -63,8 +63,14 @@
       {
         "company": "Digitize Solution Pvt Ltd",
         "title": "Software Engineer",
-        "years": "November 2021 - Present",
+        "years": "November 2021 - July 2024",
         "description": "Cooperated with team to create clean interfaces. Worked on various tools like Postman, SQL Server. Promoted from Intern to full time Software Engineer within 3 months."
+      },
+      {
+        "company": "Loop Solution Pvt Ltd",
+        "title": "Implementation Engineer",
+        "years": "August 2024 - Present",
+        "description": "Have worked internally with different team. Provided tech solutioning. Involved in development."
       }
     ],
     "skills": [
@@ -110,12 +116,7 @@
         "image": "cuurentBackyard.png",
         "url": "https://www.currentbackyard.com/configurator"
       },
-      {
-        "title": "Covid Analysis",
-        "category": "Covid Extracted data for Visualization",
-        "image": "Covid_Analysis.jpg",
-        "url": "https://github.com/VERMAKRITIKA98/Covid_Analysis/blob/main/covidExtracted_data_for_visualization.sql"
-      }
+      
     ]
   },
   "testimonials": {
