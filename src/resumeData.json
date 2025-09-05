@@ -75,6 +75,10 @@
     ],
     "skills": [
       {
+        "name": "Javascript",
+        "level": "70%"
+      },
+      {
         "name": "SQL",
         "level": "60%"
       },
@@ -88,10 +92,6 @@
       },
       {
         "name": "Git",
-        "level": "50%"
-      },
-      {
-        "name": "Javascript",
         "level": "50%"
       }
     ]
