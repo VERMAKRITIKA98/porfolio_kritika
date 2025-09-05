@@ -60,16 +60,16 @@
     ],
     "work": [
       {
-        "company": "Digitize Solution Pvt Ltd",
-        "title": "Software Engineer",
-        "years": "November 2021 - July 2024",
-        "description": "Collaborated with team members to create clean interfaces. Worked with tools such as Postman and SQL Server. Promoted from Intern to full-time Software Engineer within 3 months."
-      },
-      {
         "company": "Loop Solution Pvt Ltd",
         "title": "Implementation Engineer",
         "years": "August 2024 - Present",
         "description": "Worked internally with different teams. Provided technical solutioning and contributed to development."
+      },
+      {
+        "company": "Digitize Solution Pvt Ltd",
+        "title": "Software Engineer",
+        "years": "November 2021 - July 2024",
+        "description": "Collaborated with team members to create clean interfaces. Worked with tools such as Postman and SQL Server. Promoted from Intern to full-time Software Engineer within 3 months."
       }
     ],
     "skills": [
@@ -112,7 +112,7 @@
       {
         "title": "current-backyard",
         "category": "Client site project. Added customization for the product",
-        "image": "currentBackyard.png",
+        "image": "cuurentBackyard.png",
         "url": "https://www.currentbackyard.com/configurator"
       }
     ]
